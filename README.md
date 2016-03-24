@@ -1,4 +1,4 @@
 # Software-Management
 All things agile and scrum
 
-Documentation from school
+Projects from Master's Degree Program CSU Fullerton
